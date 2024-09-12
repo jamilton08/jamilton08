@@ -1,6 +1,6 @@
-# 👨‍💻 Jonathan Cruz
+# 👨🏽‍💻 Jonathan Cruz
 
-👋 Hello! I'm **Jonathan**, a data science enthusiast and graduate student at the CUNY School of Professional Studies.
+👋🏽 Hello! I'm **Jonathan**, a data science enthusiast and graduate student at the CUNY School of Professional Studies.
 
 ---
 
